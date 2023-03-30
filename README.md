@@ -10,7 +10,9 @@ The garbage truck moves around randomly generated map using A* algorithm. It rec
 
 ## Additional information
 
+This project was created by a group of 4 people using Python (sklearn, torch, pygame). It was developed from March until June 2022. 
+
 ### Important note
   To make this project work extract `/src/checkpoint.rar`.
 
-This project was created by a group of 4 people using Python (sklearn, torch, pygame). It was developed from March until June 2022. 
+
