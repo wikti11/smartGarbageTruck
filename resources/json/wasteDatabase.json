@@ -1,0 +1,217 @@
+{
+  "wasteTypes": {
+    "plasticBottle": {
+      "category": "plastic",
+      "imageName": "bottle.png"
+    },
+    "container": {
+      "category": "plastic",
+      "imageName": "container.png"
+    },
+    "straw": {
+      "category": "plastic",
+      "imageName": "straw.png"
+    },
+    "packaging": {
+      "category": "plastic",
+      "imageName": "packaging.png"
+    },
+    "toy": {
+      "category": "plastic",
+      "imageName": "toy.png"
+    },
+    "wetTissue": {
+      "category": "mixed",
+      "imageName": "wetTissue.png"
+    },
+    "diaper": {
+      "category": "mixed",
+      "imageName": "diaper.png"
+    },
+    "syringe": {
+      "category": "mixed",
+      "imageName": "syringe.png"
+    },
+    "incinerationAsh": {
+      "category": "mixed",
+      "imageName": "ash.png"
+    },
+    "medicine": {
+      "category": "mixed",
+      "imageName": "medicine.png"
+    },
+    "eggShell": {
+      "category": "bio",
+      "imageName": "eggshell.png"
+    },
+    "bananaPeel": {
+      "category": "bio",
+      "imageName": "peel.png"
+    },
+    "leaves": {
+      "category": "bio",
+      "imageName": "leaves.png"
+    },
+    "foodScraps": {
+      "category": "bio",
+      "imageName": "scraps.png"
+    },
+    "stick": {
+      "category": "bio",
+      "imageName": "stick.png"
+    },
+    "glassBottle": {
+      "category": "glass",
+      "imageName": "bottle.png"
+    },
+    "jug": {
+      "category": "glass",
+      "imageName": "jug.png"
+    },
+    "lightbulb": {
+      "category": "glass",
+      "imageName": "lightbulb.png"
+    },
+    "glass": {
+      "category": "glass",
+      "imageName": "glass.png"
+    },
+    "glasses": {
+      "category": "glass",
+      "imageName": "glasses.png"
+    },
+    "newspaper":{
+      "category": "paper",
+      "imageName": "newspaper.png"
+    },
+    "magazine": {
+      "category": "paper",
+      "imageName": "magazine.png"
+    },
+    "cardboard": {
+      "category": "paper",
+      "imageName": "cardboard.png"
+    },
+    "wrapping": {
+      "category": "paper",
+      "imageName": "wrapping.png"
+    },
+    "book": {
+      "category": "paper",
+      "imageName": "book.png"
+    },
+    "can": {
+      "category": "metal",
+      "imageName": "can.png"
+    },
+    "foil": {
+      "category": "metal",
+      "imageName": "foil.png"
+    },
+    "nail": {
+      "category": "metal",
+      "imageName": "nail.png"
+    },
+    "pipe": {
+      "category": "metal",
+      "imageName": "pipe.png"
+    },
+    "pot": {
+      "category": "metal",
+      "imageName": "pot.png"
+    }
+  },
+  "wastePriorities": {
+    "Spring": {
+      "bio": 5,
+      "glass": 1,
+      "metal": 1,
+      "mixed": 4,
+      "paper": 3,
+      "plastic": 1
+    },
+    "Summer": {
+      "bio": 5,
+      "glass": 3,
+      "metal": 1,
+      "mixed": 5,
+      "paper": 4,
+      "plastic": 1
+    },
+    "Fall": {
+      "bio": 4,
+      "glass": 1,
+      "metal": 1,
+      "mixed": 4,
+      "paper": 2,
+      "plastic": 1
+    },
+    "Winter": {
+      "bio": 3,
+      "glass": 1,
+      "metal": 1,
+      "mixed": 3,
+      "paper": 1,
+      "plastic": 1
+    }
+  },
+  "wasteCollection": {
+    "Monday": {
+      "bio": true,
+      "glass": false,
+      "metal": false,
+      "mixed": true,
+      "paper": false,
+      "plastic": false
+    },
+    "Tuesday": {
+      "bio": true,
+      "glass": false,
+      "metal": true,
+      "mixed": false,
+      "paper": false,
+      "plastic": true
+    },
+    "Wednesday": {
+      "bio": true,
+      "glass": true,
+      "metal": false,
+      "mixed": true,
+      "paper": false,
+      "plastic": false
+    },
+    "Thursday": {
+      "bio": true,
+      "glass": false,
+      "metal": false,
+      "mixed": false,
+      "paper": true,
+      "plastic": false
+    },
+    "Friday": {
+      "bio": true,
+      "glass": true,
+      "metal": true,
+      "mixed": true,
+      "paper": true,
+      "plastic": true
+    },
+    "Saturday": {
+      "bio": true,
+      "glass": false,
+      "metal": false,
+      "mixed": false,
+      "paper": false,
+      "plastic": false
+    },
+    "Sunday": {
+      "bio": false,
+      "glass": false,
+      "metal": false,
+      "mixed": false,
+      "paper": false,
+      "plastic": false
+    }
+  }
+
+}
